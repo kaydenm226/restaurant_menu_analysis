@@ -19,7 +19,7 @@ How many orders had more than 12 items?
 Objective 3: Analyze customer behavior
 
 
-Combine order_details and menu_items
+Combine order_details and menu_items tables together
 What were the least and moste ordered items? What categories were they in?
 Where were the top 5 orders that spent the most money?
 Which specific items were purchased from the highest spending orders?
