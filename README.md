@@ -4,7 +4,7 @@ A small restaurant is seeking to better understand its menu performance since th
 Objective 1: Explore the items table
 
 
-Get a better undersanding of the items table by finding the number of items on the menu, and the least and most expensive items
+Get a better understanding of the items table by finding the number of items on the menu, and the least and most expensive items
 How many Italian dishes are on the menu and what is the price range?
 How many dishes are in each category? What is the average dish price within each category?
 
